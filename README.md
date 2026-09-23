@@ -10,4 +10,4 @@ This project was a student work for improving our skills with the use of a RaspB
 - Inertial accelerator
 - Magnetic captor
 
-The quality of each component impact directly the performance of the programm. 
+The quality of each component impact directly the data and the performance of the programm. 
